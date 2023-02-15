@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "acorn": "^8.8.2",
+    "magic-string": "^0.29.0"
+  }
+}
